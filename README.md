@@ -27,6 +27,6 @@ of that movie or TV show.
 * Typescript
 * Google Cloud Platform (GCP)
 
-## Exhibit
+## Exhibition
 The backend is currently host on GCP.<br>
 <a href="https://movie-web-angular.wl.r.appspot.com/"> Website</a>
