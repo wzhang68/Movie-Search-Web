@@ -28,5 +28,5 @@ of that movie or TV show.
 * Google Cloud Platform (GCP)
 
 ## Exhibit
-The backend is currently host on GCP.
-<a href src="https://movie-web-angular.wl.r.appspot.com/"> Website</a>
+The backend is currently host on GCP.<br>
+<a href="https://movie-web-angular.wl.r.appspot.com/"> Website</a>
