@@ -30,4 +30,4 @@ of that movie or TV show.
 ## Exhibition
 The backend is currently host on GCP.<br>
 <a href="https://movie-web-angular.wl.r.appspot.com/"> Website</a> <br>
-<img src="https://drive.google.com/uc?export=view&id=19G_mKLVkhYZMy__886IuEG2ncCPePuQ1" width="50%" height="50%" /> 
+<img src="https://drive.google.com/uc?export=view&id=19G_mKLVkhYZMy__886IuEG2ncCPePuQ1" /> 
