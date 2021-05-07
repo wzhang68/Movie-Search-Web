@@ -7,6 +7,7 @@ movie or TV show name and select from a list of matching movie/TV show names alo
 images using “autocomplete”. Selecting the movie or TV show name will lead to the details page
 of that movie or TV show.
 
+
 ## Project Objectives
 * Get familiar with AJAX and JSON technologies
 * Use a combination of HTML5, Bootstrap and Angular on client side
@@ -14,6 +15,7 @@ of that movie or TV show.
 * Get familiar with Bootstrap to enhance the user experience using responsive design
 * Get hands-on experience of Cloud services hosting NodeJS/Express 
 * Learn to use APIs
+
 
 ## Technologies
 * HTML5
@@ -27,10 +29,11 @@ of that movie or TV show.
 * Typescript
 * Google Cloud Platform (GCP)
 
+
 ## API
 <strong>This project is powered by TMDB</strong><br>
 <strong>TMDB: https://www.themoviedb.org/?language=en-US</strong> <br>
-<strong>Web is designed by Wei Zhang</strong>
+<strong>Designed by Wei Zhang</strong>
 
 ## Exhibition
 The backend is currently host on GCP.<br>
