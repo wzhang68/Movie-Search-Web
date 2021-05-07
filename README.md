@@ -27,6 +27,11 @@ of that movie or TV show.
 * Typescript
 * Google Cloud Platform (GCP)
 
+## API
+<strong>This project is powered by TMDB</strong><br>
+<strong>TMDB: https://www.themoviedb.org/?language=en-US</strong> <br>
+<strong>Web is designed by Wei Zhang</strong>
+
 ## Exhibition
 The backend is currently host on GCP.<br>
 <a href="https://movie-web-angular.wl.r.appspot.com/"> Website</a> <br>
